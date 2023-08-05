@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
-  "scripts": {
-    "start": "node app.ts",    
+  "scripts": {    
     "dev": "nodemon app.ts"
   },
   "keywords": [],
